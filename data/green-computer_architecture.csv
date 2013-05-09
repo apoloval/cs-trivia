@@ -1,1 +1,2 @@
 What's the endianness of Intel x86 family processors?|Little endian
+How much memory can be addressed by 32 bits Intel architectures?|4GB per process, 64GB tops

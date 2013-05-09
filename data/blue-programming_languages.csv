@@ -1,1 +1,6 @@
 In C++ programming language, what's the difference between struct and class?|Default visibility for struct is public, for class is private
+How arguments are passed in Java?|They are passed by value
+How arguments are passed in C++?|They are passed by value or by reference
+How arguments are passed in Scala?|They are passed by value, reference or by name
+What's the difference between an expression and an statement?|Expresions are referentially transparent
+In Java, does a return on a finally block override the returned value of the try block when no exception is raised?|No, but is evaluated anyway
