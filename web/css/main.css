@@ -1,0 +1,72 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.card {
+  background-color: white;
+  border-style: solid;
+  border-width: 0.3cm 0.4cm;
+  border-color: #85f;
+  padding: 0.15cm;
+  font-size: 0.27cm;
+  width: 8.4cm;
+  height: 5.55cm;
+  line-height: 1em;
+}
+
+.card div {
+  display: table;
+  height: 0.87cm;
+  margin-bottom: 0.09cm;
+  padding: 0 0 0 1.5cm;
+  background-color: pink;
+}
+
+
+.card div span {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.card div.blue   { background: transparent url(../img/blue.png)   no-repeat left center; }
+.card div.brown  { background: transparent url(../img/brown.png)  no-repeat left center; }
+.card div.green  { background: transparent url(../img/green.png)  no-repeat left center; }
+.card div.orange { background: transparent url(../img/orange.png) no-repeat left center; }
+.card div.pink   { background: transparent url(../img/pink.png)   no-repeat left center; }
+.card div.yellow { background: transparent url(../img/yellow.png) no-repeat left center; }
+
+/* Questions side */
+
+.card.questions div .answer {
+  display: none;
+}
+
+span.question, span.answer {
+  display: inline;
+}
+
+/* Answers side */
+
+.card.answers {
+  padding-left: 2.15cm;
+  width: 6.4cm;
+  background: transparent url(../img/card-banner.png) no-repeat left center;
+}
+
+.card.answers div .question {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
