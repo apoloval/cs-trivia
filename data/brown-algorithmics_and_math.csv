@@ -1,7 +1,7 @@
 What's the worst case performance of bubble sort algorithm?|O(n^2)
 What's the best case performance of bubble sort algorithm?|O(n)
 Is there a lower bound on asymtotic performance of sorting algorithms?|Yes, O(n^2) for comparison-based algorithms
-Why do we call "universal" the universal Turing machine?|It can simulate any Turing machine
+Why do we call *universal* the universal Turing machine?|It can simulate any Turing machine
 Which datastructure allow for approximate set-membership testing in lowest space?|Bloom filters
 Which kind of tree stores data prefixes on non-terminal nodes?|Trie
 Which operation can be optimized thanks to the Euler's theorem?|Exponentiation in modular arithmetic

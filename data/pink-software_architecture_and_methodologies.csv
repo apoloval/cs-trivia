@@ -1,2 +1,5 @@
 What's the symbol used in UML to describe composition?|An arrow with a black diamond in the componed end
 Does the agile manifesto state that documentation has no value?|No, but it states that working software is more valuable
+Which design pattern consists on a tree structure of objects where every object has the same interface?|Composite pattern
+What is known as *code refactoring*?|Altering the structure but not the behavior of a code
+What are the steps involved in TDD?|Write failing test, make it pass and refactor
