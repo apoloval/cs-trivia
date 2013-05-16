@@ -5,3 +5,21 @@ How arguments are passed in Scala?|They are passed by value, reference or by nam
 What's the difference between an expression and an statement?|Expresions are referentially transparent
 In Java, does a return on a finally block override the returned value of the try block when no exception is raised?|No, but is evaluated anyway
 Is static typing compatible with duck tiping?|Yes. It is known as structural typing.
+What's the difference between `new` operator and `malloc()` function in C++?|`malloc()` doesn't initialize the object
+What does the RAII acronym stand for?|Resource Adquisition Is Initialization
+What's the most common way to determine the bounds of a string in C?|They're terminated with a null (0) character
+What's the value of the expression `(((std::uint32_t*)0x1000)+1)` in C++?|0x1004
+What's the calling convention of Win32 API?|`stdcall`
+What programming language is Linux kernel programmed in?|C
+What programming language is Apple's IOKit programmed in?|C++
+What programming language is Apple's Cocoa Framework programmed in?|Objective-C
+What's the prefix used to name Apple's Cocoa classes?|`NS`
+What's the term used in Apple's Cocoa to initialize an object?|`Init`
+Is Ada95 language a case sensitive or case insensitive language?|Case insensitive
+Is Java language a case sensitive or case insensitive language?|Case sensitive
+How many classes can be declared in a Java source file?|One public, unlimited private
+What's the formal system used to describe pre- and post-conditions of a system?|Hoare logic
+What's the signal sent in Unix operating system when a memory violation is detected?|`SIGSEGV`
+Is Javascript a statically typed language?|No
+What symbol used used in Ada95 to begin a comment?|Two dashes (`--`)
+What's `malloc()`? A library function or a system call?|Library function

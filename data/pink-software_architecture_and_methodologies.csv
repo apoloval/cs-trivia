@@ -3,3 +3,11 @@ Does the agile manifesto state that documentation has no value?|No, but it state
 Which design pattern consists on a tree structure of objects where every object has the same interface?|Composite pattern
 What is known as *code refactoring*?|Altering the structure but not the behavior of a code
 What are the steps involved in TDD?|Write failing test, make it pass and refactor
+If traditional software development is a cathedral, what's Open Source Software?|A bazaar
+What's the design pattern used to provide a single instance for a class?|Singleton
+What's the figured used in UML language to represent a use case?|An elipse
+What's OSGi? A programming language, a service platform or an operating system?|Service platform
+What's the number corresponding to `SIGSEGV` signal in Unix operating systems?|11
+What's the number corresponding to `SIGKILL` signal in Unix operating systems?|9
+What's a dashed line ended by a triangle in UML language?|Interface implementation
+What's the design pattern implemented in Java IO streams?|Decorator

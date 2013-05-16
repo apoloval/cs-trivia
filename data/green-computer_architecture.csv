@@ -1,2 +1,14 @@
 What's the endianness of Intel x86 family processors?|Little endian
 How much memory can be addressed by 32 bits Intel architectures?|4GB per process, 64GB tops
+What's the address space of PCI bus?|32 bits
+What's the difference between 80486-SX and 80486-DX processors?|FPU was disabled in SX
+What's the endianness of PowerPC processor?|Big Endian
+What's the word size of Intel 80286 processors?|16 bits
+What's the most common size for a memory page used in X86 architecture?|4KB
+What does the acronym TLB stand for?|Transfer Lookaside Buffer
+What's the alternative to memory paging on Intel 8086 architectures?|Memory segmentation
+What's the successor of AGP bus?|PCI Express
+What's the operation mode of RAID0, mirror or stripe?|Stripe
+How many disks are allowed for a RAID1 volume?|Two
+What's typically encoded along RGB values in a 32-bits field?|Alpha (or blending) value
+

@@ -1,3 +1,13 @@
 What's the level of IP protocol according to OSI model?|Three
 Which of the following is **not** an HTTP verb: OPTIONS, GET, HEAD, POST, PUT, ETAG, DELETE, TRACE or CONNECT?|ETAG
 What the TTL (time to live) field of IPv4 protocol represents?|The number of hops that a datagram is allow to perform
+What's the bit-length of network addresses in IPv4?|32 bits
+What's the bit-length of network addresses in IPv6?|128 bits
+What does AJAX acronym stand for?|Asynchronous Javascript and XML
+What's the only HTTP 1.1 header considered mandatory for the client?|`Host`
+What are the windows used by TCP protocol?|Congestion window and control flow window
+Is a TCP segment allowed to carry data and have the SYNC flag active?|Yes
+What's the protocol used by GMail chat engine, among others?|XMPP
+What's the maximum length of a tweet in Tweeter?|140 characters
+What does REST acronym stands for?|REpresentational State Transfer
+Who's considered the author of REST?|Roy Fielding

@@ -5,3 +5,4 @@ Why do we call *universal* the universal Turing machine?|It can simulate any Tur
 Which datastructure allow for approximate set-membership testing in lowest space?|Bloom filters
 Which kind of tree stores data prefixes on non-terminal nodes?|Trie
 Which operation can be optimized thanks to the Euler's theorem?|Exponentiation in modular arithmetic
+What's Catmull-Clark algorithm for? Sorting, video encoding or surface subdivision?|Surface subdivision
